@@ -1,0 +1,6 @@
+Kostenloses WLAN wird von immer mehr Airlines in ihren Flugzeugen angeboten, wohingegen ein Glass Wasser extra kostet. 
+Entgegen der momentan teuren Anschaffung bieten vor allem Billigairlines gratis WLAN an, um somit Kosten für Unterhaltungselektronik an Board einzusparen. 
+Zusätzlich kann durch den Verzicht von bspw. Bildschirmen das Gewicht des Flugzeugs verringert und somit der Treibstoffverbrauch reduziert werden.
+Große Fluglinien limitieren derzeit die Nutzung durch Datenvolumen, Zugriff nur für Passagiere der Business Class oder grundsätzlich durch Nutzungskosten (z.B. 9€ pro Stunde).
+Ab einer Flughöhe von etwa 3000m können Inhalte bei maximal 80 Megabit pro Sekunde heruntergeladen werden, was, abgesehen von Streaming-Diensten, für die gewöhnliche Internetnutzung ausreicht.
+Bei der Nutzung besteht keine Gefahr für die Bordelektronik, da nur eine geringe Signalstärke entsteht.
